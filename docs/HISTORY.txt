@@ -1,0 +1,14 @@
+Changelog for uwosh.admissionsPDFs
+
+    (name of developer listed in brackets)
+
+uwosh.admissionsPDFs - 
+
+0.2
+    - Cleaned up some code in mergePDFs
+
+0.1 Unreleased
+
+    - Initial package structure.
+      [zopeskel]
+
